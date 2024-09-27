@@ -1,18 +1,18 @@
-## City Police Department - My Database Systems project
+# City Police Department - My Database Systems project
   This was my 2nd semester. The motivation behind this project idea was my passion and respect 
   for Law Enforcement authorities.
     
-## Collaborator: Muhammad Haseeb ul Haq
+# Collaborator: Muhammad Haseeb ul Haq
   Haseeb is my class-fellow and we did this project together in a group. We completed this project within 7 days, 
   which was a good experience for me. Haseeb is a good programmer and a great problem solver.
 
-# Resources Used:
+## Resources Used:
 
 VS Code
 XAMPP 
 PHPmyAdmin
 
-# Languages Used:
+## Languages Used:
 HTML
 CSS
 BOOTSTRAP
