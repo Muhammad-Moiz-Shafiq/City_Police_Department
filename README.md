@@ -3,7 +3,7 @@
   for Law Enforcement authorities. The website is hosted and free to use.
 
 ## Link:
-        http://cpd.kesug.com/
+           https://cpd.kesug.com
   
 # Collaborator: Muhammad Haseeb ul Haq
   Haseeb is my class-fellow and we did this project together in a group. We completed this project within 7 days, 
