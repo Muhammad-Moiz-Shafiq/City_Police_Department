@@ -1,7 +1,10 @@
 # City Police Department - My Database Systems project
   This was my 2nd semester. The motivation behind this project idea was my passion and respect 
-  for Law Enforcement authorities.
-    
+  for Law Enforcement authorities. The website is hosted and free to use.
+
+## Link:
+        http://cpd.kesug.com/
+  
 # Collaborator: Muhammad Haseeb ul Haq
   Haseeb is my class-fellow and we did this project together in a group. We completed this project within 7 days, 
   which was a good experience for me. Haseeb is a good programmer and a great problem solver.
@@ -11,6 +14,7 @@
 VS Code
 XAMPP 
 PHPmyAdmin
+InfinityFree (for hosting)
 
 ## Languages Used:
 HTML
