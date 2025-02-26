@@ -49,12 +49,12 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto " href="/boot/index.php#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="/boot/index.php#about">About</a></li>
-          <li><a class="nav-link scrollto" href="/boot/index.php#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="/boot/index.php#Breakthroughs">Breakthroughs</a></li>
-          <li><a class="nav-link scrollto" href="/boot/index.php#team">Officers</a></li>
-          <li><a class="nav-link scrollto" href="/boot/index.php#cta">Contact</a></li>
+          <li><a class="nav-link scrollto " href="/index.php#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="/index.php#about">About</a></li>
+          <li><a class="nav-link scrollto" href="/index.php#services">Services</a></li>
+          <li><a class="nav-link scrollto " href="/index.php#Breakthroughs">Breakthroughs</a></li>
+          <li><a class="nav-link scrollto" href="/index.php#team">Officers</a></li>
+          <li><a class="nav-link scrollto" href="/index.php#cta">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -174,10 +174,10 @@
         <div class="col-lg-4 col-md-4 col-sm-4  footer-links fs-6">
           <h4 class="fs-5">Useful Links</h4>
           <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="/boot/index.php#hero">Home</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/boot/index.php#about">About us</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/boot/index.php#services">Services</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="/boot/index.php#Breakthroughs">Breakthroughs</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#hero">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#about">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#services">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="/index.php#Breakthroughs">Breakthroughs</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="https://www.punjabpolice.gov.pk/recruitment2011" target="_blank">Join Police Now</a></li>
           </ul>
         </div>

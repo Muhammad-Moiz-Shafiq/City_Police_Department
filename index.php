@@ -78,31 +78,31 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-file-text-line"></i>
-            <h3><a href="/boot/file.php">Launch an <br>E-complaint</a></h3>
+            <h3><a href="/file.php">Launch an <br>E-complaint</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-bar-chart-box-line"></i>
-            <h3><a href="/boot/check.php">Complaint Status</a></h3>
+            <h3><a href="/check.php">Complaint Status</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-search-line"></i>
-            <h3><a href="/boot/inner-page.php">Check Criminal Record</a></h3>
+            <h3><a href="/inner-page.php">Check Criminal Record</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-shield-user-line"></i>
-            <h3><a href="/boot/officer.php">Officers information</a></h3>
+            <h3><a href="/officer.php">Officers information</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-book-open-line"></i>
-            <h3><a href="/boot/cases.php">Case Study</a></h3>
+            <h3><a href="/cases.php">Case Study</a></h3>
           </div>
         </div>
       </div>
@@ -180,7 +180,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="/boot/file.php">Launch an <br>E-complaint</a></h4>
+              <h4><a href="/file.php">Launch an <br>E-complaint</a></h4>
               <p>You can file an e-complaint here without <br>visiting police station</p>
             </div>
           </div>
@@ -188,7 +188,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-bar-chart"></i></div>
-              <h4><a href="/boot/check.php">Complaint Status</a></h4>
+              <h4><a href="/check.php">Complaint Status</a></h4>
               <p>Check your complaint status from here</p>
             </div>
           </div>
@@ -196,7 +196,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-search"></i></div>
-              <h4><a href="/boot/inner-page.php">Check Criminal <br>Record</a></h4>
+              <h4><a href="/inner-page.php">Check Criminal <br>Record</a></h4>
               <p>Check a person's criminal record from here</p>
             </div>
           </div>
@@ -204,7 +204,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-user"></i></div>
-              <h4><a href="/boot/officer.php">Officers Information</a></h4>
+              <h4><a href="/officer.php">Officers Information</a></h4>
               <p>Check Officers' posting information here</p>
             </div>
           </div>
@@ -212,7 +212,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-info-circle"></i></div>
-              <h4><a href="/boot/jail.php">Jails Information</a></h4>
+              <h4><a href="/jail.php">Jails Information</a></h4>
               <p>Check information regarding jails here</p>
             </div>
           </div>
@@ -220,7 +220,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-book-bookmark"></i></div>
-              <h4><a href="/boot/cases.php">Case Study</a></h4>
+              <h4><a href="/cases.php">Case Study</a></h4>
               <p>You can do case study from here</p>
             </div>
           </div>
@@ -235,7 +235,7 @@
         <div class="text-center">
           <h3>Need Any Help?</h3>
           <p class="fs-5"> In case of any emergency, call <strong>15</strong></p>
-          <a class="cta-btn" href="/boot/file.php">E-Complaint</a>
+          <a class="cta-btn" href="/file.php">E-Complaint</a>
         </div>
       </div>
     </section><!-- End Cta Section -->
@@ -245,7 +245,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row no-gutters">
-          <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"><a href="/boot/file.php"><img src="./assets/img/counts-img.png" alt="Recent Statistics for cases" class="img-fluid" data-aos="fade-right" data-aos-delay="100" /></a></div>
+          <div class="col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"><a href="/file.php"><img src="./assets/img/counts-img.png" alt="Recent Statistics for cases" class="img-fluid" data-aos="fade-right" data-aos-delay="100" /></a></div>
           <div class="col-xl-7 ps-4 ps-lg-5 pe-4 pe-lg-1 d-flex align-items-stretch" data-aos="fade-left" data-aos-delay="100">
             <div class="content d-flex flex-column justify-content-center">
               <h3>Recent Statistics</h3>
